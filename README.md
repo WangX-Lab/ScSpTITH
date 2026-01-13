@@ -2,7 +2,6 @@
 
 Here, we introduce the ScSpTITH (Single-Cell and Spatial Intra-/Inter-tumoral Heterogeneity), a novel computational framework for quantifying ITH for both scRNA-seq and spatial transcriptomic data.
 
-&nbsp
 
 # Description
 
@@ -146,4 +145,5 @@ ScSpTITH[1:5,]
 # Contact
 
 E-mail any questions to Xiaosheng Wang (xiaosheng.wang@hotmail.com)
+
 
